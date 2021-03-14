@@ -1,0 +1,10 @@
+body {
+    font-size: 20px;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+.intro-img {
+    width: 500px;
+    height: auto;
+}
